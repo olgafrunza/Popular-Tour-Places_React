@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # RP-02 : Tour Places
 
 ## Description
@@ -76,9 +73,3 @@ Build a Tour Project App using ReactJS.
 - Step 4: Push your application into your own public repo on Github
 
 - Step 5: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
